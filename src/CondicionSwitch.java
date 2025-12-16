@@ -29,5 +29,6 @@ public class CondicionSwitch {
             default:
                 System.out.println("El producto ingresado (" + nombreProducto + ") no esta registrado");
         }
+        System.out.println("Gracias por usar nuestro sistema, vuelva pronto !!!");
     }
 }
